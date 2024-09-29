@@ -53,7 +53,8 @@
 			"titiaiev.vue-docs",
 			"dariofuzinato.vue-peek",
 			"GitHub.vscode-github-actions",
-			"ms-vscode.remote-repositories"
+			"ms-vscode.remote-repositories",
+			"ritwickdey.LiveServer"
 		]
 		}
 	},
